@@ -1,4 +1,4 @@
-package in.prathamsingh.july
+package com.example.july
 
 import io.flutter.embedding.android.FlutterActivity
 
